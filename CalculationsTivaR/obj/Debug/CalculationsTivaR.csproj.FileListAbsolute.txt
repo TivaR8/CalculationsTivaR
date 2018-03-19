@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Introduction\CalculationsTivaR\CalculationsTivaR\bin\Debug\CalculationsTivaR.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Introduction\CalculationsTivaR\CalculationsTivaR\bin\Debug\CalculationsTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Introduction\CalculationsTivaR\CalculationsTivaR\bin\Debug\CalculationsTivaR.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Introduction\CalculationsTivaR\CalculationsTivaR\obj\Debug\CalculationsTivaR.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Introduction\CalculationsTivaR\CalculationsTivaR\obj\Debug\CalculationsTivaR.frmCalculations.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Introduction\CalculationsTivaR\CalculationsTivaR\obj\Debug\CalculationsTivaR.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Introduction\CalculationsTivaR\CalculationsTivaR\obj\Debug\CalculationsTivaR.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Introduction\CalculationsTivaR\CalculationsTivaR\obj\Debug\CalculationsTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Introduction\CalculationsTivaR\CalculationsTivaR\obj\Debug\CalculationsTivaR.pdb
